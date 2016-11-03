@@ -1,0 +1,1 @@
+# Safari-like-browser
